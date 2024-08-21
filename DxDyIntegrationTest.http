@@ -1,0 +1,6 @@
+@DxDyIntegrationTest_HostAddress = http://localhost:5232
+
+GET {{DxDyIntegrationTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
